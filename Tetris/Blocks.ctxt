@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Blocks
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Blocks\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rot
+comment1.target=int\ checkRotations(int)
+comment2.params=
+comment2.target=void\ renewLocation()
+comment3.params=r
+comment3.target=boolean\ checkRot(int)
+comment4.params=x\ y
+comment4.target=void\ setPosition(int,\ int)
+comment5.params=x\ y
+comment5.target=boolean\ doesIsPosition(int,\ int)
+comment6.params=x\ y
+comment6.target=boolean\ cHeCkPlEaSe(int,\ int)
+comment7.params=world
+comment7.target=void\ addedToWorld(greenfoot.World)
+comment8.params=
+comment8.target=void\ act()
+comment8.text=\r\n\ Act\ -\ do\ whatever\ the\ Blocks\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment9.params=
+comment9.target=boolean\ canFall()
+numComments=10
